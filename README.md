@@ -3,4 +3,4 @@ Playing Card Image Dataset and the Construction Site Safety Image Dataset.
 
 ![Example_1](images/ppe_detection.png)
 
-![Example_2](images/)
+![Example_2](images/pocker.png)
